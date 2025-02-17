@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The feedback type is usually spoken feedback -->
+    <feedback-type android:value="feedbackSpoken" />
+    <!-- Timeout for the accessibility notification -->
+    <notification-timeout android:value="100" />
+    <!-- Types of accessibility events to listen for -->
+    <accessibility-event-types android:value="typeAllMask" />
+    <!-- Define the package name for which this service is activated -->
+    <package-names android:value="com.info.defenders" />
+</accessibility-service>

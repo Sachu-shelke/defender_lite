@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1066535405957-cb06ut63dqpbdjmb5k34jsico6eghgk1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1066535405957</string>
+    <string name="google_api_key" translatable="false">AIzaSyAhIgYuRoeMUdpk8Y2Qlpm_MsDbiyGHuec</string>
+    <string name="google_app_id" translatable="false">1:1066535405957:android:993316b51607f3b76c5cec</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAhIgYuRoeMUdpk8Y2Qlpm_MsDbiyGHuec</string>
+    <string name="google_storage_bucket" translatable="false">mirror-business.appspot.com</string>
+    <string name="project_id" translatable="false">mirror-business</string>
+</resources>
